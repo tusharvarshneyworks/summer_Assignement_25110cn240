@@ -15,4 +15,5 @@ int main()
         }
         printf("reverse of number is %d",rev);
     }
+    return 0;
 }
